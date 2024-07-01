@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HimanshuKishorPatil
+- 👋 Hi, I’m Himanshu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python for Data Analysis
+- 🌱 Full Stack Web
 - 💞️  💞️ 💞️  💞️ 💞️  💞️ 💞️  💞️ 💞️  💞️ 💞️  💞️ 
 - ⚡fact: Code never lies
 
